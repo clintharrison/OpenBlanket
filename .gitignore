@@ -2,3 +2,5 @@
 lib/
 *.so
 *.o
+!subprojects/*.wrap
+subprojects/*

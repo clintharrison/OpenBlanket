@@ -1,0 +1,8 @@
+---
+Language: Cpp
+UseTab: false
+IndentWidth: 2
+BreakBeforeBraces: Allman
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: true
+ColumnLimit: 0
